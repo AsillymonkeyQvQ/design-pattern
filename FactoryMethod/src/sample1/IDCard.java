@@ -1,4 +1,4 @@
-package sample;
+package sample1;
 
 public class IDCard extends Product {
 

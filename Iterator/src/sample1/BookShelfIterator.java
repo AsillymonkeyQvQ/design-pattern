@@ -1,4 +1,4 @@
-package sample;
+package sample1;
 
 public class BookShelfIterator implements Iterator {
 
